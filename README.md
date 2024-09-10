@@ -1,7 +1,7 @@
 - 👋 Bonjour je suis Noam
-- 👀 Je suis interessé par le developpement
-- 🌱 J'ai étudier les bases Html, Css et javascript
-- 💞️ Je cherche a collaborer avec n'importe quel projets ou personne qui sera susceptible d'améliorer mes compétences
+- 👀 Je suis interessé par le développement web 
+- 🌱 J'ai étudié les bases Html, Css et javascript
+- 💞️ Je cherche à collaborer avec n'importe quel projet ou personne qui serait susceptible d'améliorer mes compétences
 - 📫 Vous pouvez me contacter par mail : nidbelaid@normandiewebschool.fr
 
 
